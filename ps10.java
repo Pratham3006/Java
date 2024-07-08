@@ -3,6 +3,7 @@ public class ps10{
         System.out.println(Bin("10", "11"));
         
     }
+    //decimal to binary//
     public static String Bin(String a,String b){
         int c=Integer.parseInt(a,2);
         int d=Integer.parseInt(b,2);

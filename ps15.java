@@ -3,6 +3,7 @@ public class ps15 {
         System.out.println(hex("1A3"));
 
     }
+    //hex to decimal//
     public static  int hex(String a){
         int x=Integer.parseInt(a,16);
         return x;

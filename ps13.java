@@ -3,6 +3,7 @@ public class ps13 {
         System.out.println(conv("15"));
 
     }
+    //decimal to hex//
     public static String conv(String a){
         int x=Integer.parseInt(a);
         return Integer.toOctalString(x);
