@@ -1,0 +1,2 @@
+public class ps12 {
+}
